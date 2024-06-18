@@ -214,10 +214,8 @@ body {
 .project-card2 .dyp img{
     padding: 35px 15px ;
     width: 90%;
-    
-    
     background-color: white;
-    
+    padding-left: 10px;
 }
 .project-card2 .apna img{
     padding: 15px 0;
@@ -447,6 +445,12 @@ background: linear-gradient(90deg, rgba(109,0,251,1) 0%, rgba(57,185,158,1) 0%, 
         margin: 10px;
         height: 250px;
         
+    }
+    .project-card2 .uipath  img{
+        padding:5px 90px;
+    }
+    .project-card2 .dyp  img{
+        padding:35px 20px;
     }
     
 
