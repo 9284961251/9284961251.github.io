@@ -231,7 +231,8 @@ body {
     background-color: white;
     object-fit: cover;
     width: 57%;
-    padding:5px 65px;
+    padding:5px 105px;
+    padding-left: 40px;
 }
 
 
