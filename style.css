@@ -10,7 +10,7 @@ body {
     border-radius: 10px;
     overflow: hidden;
     background: rgb(109,0,251);
-    background: linear-gradient(90deg, rgba(109,0,251,1) 0%, rgba(57,185,158,1) 0%, rgba(9,121,110,1) 20%, rgba(3,50,25,1) 60%, rgba(2,0,36,1) 100%);
+    background: linear-gradient(to right, #4e5886, #443ec0, #5c2381);
     margin: 10px;
 }
 
