@@ -10,7 +10,7 @@ body {
     border-radius: 10px;
     overflow: hidden;
     background: rgb(109,0,251);
-    background: linear-gradient(to right, #4e5886, #443ec0, #5c2381);
+    background: linear-gradient(to right, #7e2781, #443ec0, #5c2381);
     margin: 10px;
 }
 
@@ -215,7 +215,7 @@ body {
     padding: 35px 15px ;
     width: 90%;
     background-color: white;
-    padding-left: 10px;
+    padding-left: 20px;
 }
 .project-card2 .apna img{
     padding: 15px 0;
